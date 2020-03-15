@@ -7,19 +7,15 @@ Having an excellent personal website provides you with a powerful tool to commun
 
 While there are limitless ways with which you can approach designing and producing your site, it’s important to consider what a potential employer looks for when they look at your portfolio.  Below we discuss some key steps and components to be mindful of as you proceed in building your site.
 
-*If you’re a student of software engineering, these best practices will especially apply to you.*
-
 
 ## Show What You Know
 
-While it may be easier to utilize pre-existing website-building platforms or frameworks, if you’re a software engineering student you’ll want to code as much of your own website as possible. After all, you’re a developer, and companies want to see that you know how to code a website! 
-
-Especially if you are pursuing primarily front end and/or design-oriented developer roles, you should ideally be coding your own site from scratch and ensure that the site shows that you have an eye for UI/UX, since the site itself serves as a portfolio piece.
+Since hiring managers in cybersecurity are just as skeptical as managers in other technical professions, it’s highly encouraged to demonstrate your skills through a personal website.  You’ll be able to show your continued personal and professional development.  
+ 
+The focus in building your site should be how well does it demonstrate your versatility and mastery.   Do you have a  "home labs" where you test out new software, skills, and perhaps research?  Effective cybersecurity analysts are excellent at documenting, demonstrating, and presenting processes in security in an approachable way. A personal website will enable you to emulate these crucial industry skills.
 
 
 ## Template-Based or Custom Design Site?
-
-As a Flatiron grad you should be able to build, at the very base level, a responsive landing page, since it requires HTML and CSS (or JSX if they build with React). A robust portfolio page will take a little longer, since you will need to design the user experience, map out data flow, etc. If you don't want to bother with all of that, templates are a good solution.
 
 A helpful first step is to read Mashable's guides for creating sites on both [WordPress](https://mashable.com/2013/06/11/wordpress-how-to/) and [Tumblr](https://mashable.com/2012/06/03/the-beginners-guide-to-tumblr/).  You can research domain availability on a domain registrar, such as Namecheap or godaddy. While traditional online marketing principles may suggest that you choose a domain name that generates high search results on top Internet search engines, your website is your own personal portfolio, meant to help you market you and your personal brand. Given that, many Flatiron grads choose to use their own name (firstnamelastname.com) as their domain name; that way you ensure you own your name on the internet.  Popular web hosting platforms among Flatiron students and the marketplace include: [https://domain.me/](https://domain.me/), [WordPress](https://wordpress.com/), [Squarespace](https://www.squarespace.com/), [HTML5UP](https://html5up.net/), and [Wix](https://www.wix.com/).
 
@@ -37,7 +33,7 @@ You’ve likely worked with your Career Coach previously to craft a personal bio
 
 ## Technical Projects
 
-The most important thing to highlight and share on your website are your Technical Projects.  You can outline projects you’ve developed for personal, professional, contest, and hackathon projects.  Each project should have its own page once clicked on, with a description of what the project is, plus a link to Git repository, video demo (a *must* for software engineering students), and a link to the fully deployed app/project.
+The most important thing to highlight and share on your website are your Technical Projects.  You can outline projects you’ve developed for personal, professional, contest, and hackathon projects.  Each project should have a description of what the project is, plus any relevant links.
 
 Some additional features you can include in a personal website are photos of yourself, your experience and education/resume, professional services you offer (for example, website building or tutoring), and contact information.
 
@@ -47,7 +43,7 @@ You should also feature your tech blog on your site, providing a link to your ex
 
 ## Share Relevant Platforms/Build Your Brand
 
-Your site should also provide many avenues for visitors to learn more about you in depth, helping convey you and your personal brand. Link the social media accounts that you use for professional purposes, including GitHub, Twitter, LinkedIn, Tumblr, Instagram, etc.  Be sure you’re conveying a consistent image of yourself across all your social media channels that flow alongside your website’s content.  This way, visitors will access the ongoing flow of your thoughts and experiences within tech.
+Your site should also provide many avenues for visitors to learn more about you in depth, helping convey you and your personal brand. Link the social media accounts that you use for professional purposes, including GitHub, Twitter, LinkedIn, Tumblr, Instagram, Reddit, etc.  Be sure you’re conveying a consistent image of yourself across all your social media channels that flow alongside your website’s content.  This way, visitors will access the ongoing flow of your thoughts and experiences within tech.
 
 ## Contact Information
 
@@ -63,6 +59,12 @@ Once your site is up and running, share it with your friends and colleagues, **l
 
 ## Resources
 
+Resources
+ 
+Here are two examples of SecureSet alumni personal websites: 
+- [Jonathan Hagar](https://www.vividhacks.com/) 
+- [Pedro Urbina](https://terraflux.github.io/)
+
 - [Portfolio Site How-To for New Developers](https://medium.com/@sethalexander/portfolio-site-how-to-for-new-developers-b1a1e01c4f8a)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/portfolio-personal-website'>Portfolio / Personal Website</a> on Learn.co and start learning to code for free.</p>
+
