@@ -17,7 +17,7 @@ The focus in building your site should be how well does it demonstrate your vers
 
 ## Template-Based or Custom Design Site?
 
-A helpful first step is to read Mashable's guides for creating sites on both [WordPress](https://mashable.com/2013/06/11/wordpress-how-to/) and [Tumblr](https://mashable.com/2012/06/03/the-beginners-guide-to-tumblr/).  You can research domain availability on a domain registrar, such as Namecheap or godaddy. While traditional online marketing principles may suggest that you choose a domain name that generates high search results on top Internet search engines, your website is your own personal portfolio, meant to help you market you and your personal brand. Given that, many Flatiron grads choose to use their own name (firstnamelastname.com) as their domain name; that way you ensure you own your name on the internet.  Popular web hosting platforms among Flatiron students and the marketplace include: [https://domain.me/](https://domain.me/), [WordPress](https://wordpress.com/), [Squarespace](https://www.squarespace.com/), [HTML5UP](https://html5up.net/), and [Wix](https://www.wix.com/).
+A helpful first step is to read Mashable's guides for creating sites on both [WordPress](https://mashable.com/2013/06/11/wordpress-how-to/) and [Tumblr](https://mashable.com/2012/06/03/the-beginners-guide-to-tumblr/).  You can research domain availability on a domain registrar, such as Namecheap or godaddy. While traditional online marketing principles may suggest that you choose a domain name that generates high search results on top Internet search engines, your website is your own personal portfolio, meant to help you market you and your personal brand. Given that, many Flatiron grads choose to use their own name (firstnamelastname.com) as their domain name; that way you ensure you own your name on the internet.  Popular web hosting platforms among Flatiron students and the marketplace include: [domain.me](https://domain.me/), [WordPress](https://wordpress.com/), [Squarespace](https://www.squarespace.com/), [HTML5UP](https://html5up.net/), and [Wix](https://www.wix.com/).
 
 Once you’ve obtained your domain name and a hosting platform, you’re ready to build your site.  As you work on the content, remember to include these important elements:
 
@@ -58,8 +58,6 @@ Consider what you can include to truly personalize your visitors’ experience, 
 Once your site is up and running, share it with your friends and colleagues, **link to it on your LinkedIn, social profiles, and include it in your email signature.**  By doing this you are continuing to build and market your brand while making it easily searchable and accessible on the web.  
 
 ## Resources
-
-Resources
  
 Here are two examples of SecureSet alumni personal websites: 
 - [Jonathan Hagar](https://www.vividhacks.com/) 
