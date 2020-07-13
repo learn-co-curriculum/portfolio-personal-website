@@ -62,7 +62,6 @@ Once your site is up and running, share it with your friends and colleagues, **l
 Here are two examples of SecureSet alumni personal websites: 
 - [Jonathan Hagar](https://www.vividhacks.com/) 
 - [Pedro Urbina](https://terraflux.github.io/)
-
-- [Portfolio Site How-To for New Developers](https://medium.com/@sethalexander/portfolio-site-how-to-for-new-developers-b1a1e01c4f8a)
+- [Portfolio Site How-To for New Developers](https://sethaalexander.com/portfolio-site-new-developers/)
 
 
